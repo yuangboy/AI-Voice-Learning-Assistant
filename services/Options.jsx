@@ -26,4 +26,20 @@ export const ExperList=[
 
 ];
 
+export const TeacherTopicList=[
+    {
+        name:"Teacher 1",
+        picture:"/t1.avif"
+    },
+    {
+        name:"Teacher 2",
+        picture:"/t2.jpg"
+    },
+    {
+        name:"Teacher 3",
+        picture:"/t3.jpg"
+    },
+    
+]
+
 
